@@ -1,6 +1,11 @@
 # GitHub Cloud Lab
 
-Bu repo GitHub platformunu öğrenmek içindir.
+A hands-on repository for learning GitHub as a cloud platform.
 
-Student: Otabek Akhmatov
-ID: 73496
+## Contents
+- `hello.py` — A simple Python greeting script
+- `.devcontainer/` — Codespace configuration
+
+## Running the script
+```bash
+python hello.py
